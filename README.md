@@ -38,6 +38,8 @@ xxx.yyy@Walmart.org where xxx and yyy are strings of letters. An additional GUI 
 calculate the mean store size based on type as well as produce a time-series sales graph of
 any specific store and department is also provided.
 
+The Walmart_db_gui.pdf file explains the Database design process, data cleaning, as well as the explantions on GUI functionality and performance.
+
 Note: If you want to run the codes in the .ipynb file provided in this repository, please ensure
 downloading all the csv files in this repository and placing them in the same directory as the
 walmart_db.ipynb file.
