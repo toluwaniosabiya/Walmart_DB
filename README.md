@@ -43,3 +43,5 @@ The Walmart_db_gui.pdf file explains the Database design process, data cleaning,
 Note: If you want to run the codes in the .ipynb file provided in this repository, please ensure
 downloading all the csv files in this repository and placing them in the same directory as the
 walmart_db.ipynb file.
+
+Nat-ctrl89 also contributed to this project.
